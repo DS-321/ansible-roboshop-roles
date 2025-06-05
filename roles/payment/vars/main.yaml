@@ -1,0 +1,5 @@
+CART_HOST: cart.dcloudlab.site
+USER_HOST: user.dcloudlab.site
+RABBITMQ_HOST: rabbitmq.dcloudlab.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123

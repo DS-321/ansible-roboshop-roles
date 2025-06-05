@@ -1,0 +1,2 @@
+REDIS_HOST: redis.dcloudlab.site
+CATALOGUE_HOST: catalogue.dcloudlab.site
